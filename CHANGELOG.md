@@ -1,3 +1,10 @@
+# 1.0.0 (2021-10-03)
+
+
+### Features
+
+* Init ([9a4f366](https://github.com/NoUseFreak/huaweifusionsolar-exporter/commit/9a4f366ee572f5bdbab9fc955900243c95bc0f10))
+
 ## [1.0.3](https://github.com/NoUseFreak/huaweifusionsolar-exporter/compare/v1.0.2...v1.0.3) (2021-10-03)
 
 
