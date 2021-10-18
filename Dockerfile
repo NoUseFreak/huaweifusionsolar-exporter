@@ -8,4 +8,5 @@ RUN go mod vendor \
 FROM gcr.io/distroless/static
 
 COPY --from=build /app/main /app/main
+USER 65532
 CMD ["/app/main", "metrics"]
