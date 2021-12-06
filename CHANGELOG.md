@@ -1,3 +1,10 @@
+## [1.1.4](https://github.com/NoUseFreak/huaweifusionsolar-exporter/compare/v1.1.3...v1.1.4) (2021-12-06)
+
+
+### Bug Fixes
+
+* **deps:** update golang.org/x/net commit hash to 012df41 ([fee37aa](https://github.com/NoUseFreak/huaweifusionsolar-exporter/commit/fee37aad6dba139f0340d82e463b640039c491f5))
+
 ## [1.1.3](https://github.com/NoUseFreak/huaweifusionsolar-exporter/compare/v1.1.2...v1.1.3) (2021-11-24)
 
 
