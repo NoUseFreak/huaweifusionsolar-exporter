@@ -1,3 +1,10 @@
+## [1.1.5](https://github.com/NoUseFreak/huaweifusionsolar-exporter/compare/v1.1.4...v1.1.5) (2021-12-08)
+
+
+### Bug Fixes
+
+* **deps:** update golang.org/x/net commit hash to db4efeb ([5b4f2d4](https://github.com/NoUseFreak/huaweifusionsolar-exporter/commit/5b4f2d4d9d076dafd2267992431e128a42c6e462))
+
 ## [1.1.4](https://github.com/NoUseFreak/huaweifusionsolar-exporter/compare/v1.1.3...v1.1.4) (2021-12-06)
 
 
