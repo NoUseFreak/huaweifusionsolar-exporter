@@ -1,3 +1,10 @@
+## [1.1.7](https://github.com/NoUseFreak/huaweifusionsolar-exporter/compare/v1.1.6...v1.1.7) (2021-12-12)
+
+
+### Bug Fixes
+
+* **deps:** update module github.com/spf13/viper to v1.10.0 ([9ee2348](https://github.com/NoUseFreak/huaweifusionsolar-exporter/commit/9ee2348b6bb2416ff4658417b117064cf7fd4021))
+
 ## [1.1.6](https://github.com/NoUseFreak/huaweifusionsolar-exporter/compare/v1.1.5...v1.1.6) (2021-12-09)
 
 
