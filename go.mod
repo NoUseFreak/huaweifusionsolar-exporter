@@ -13,7 +13,7 @@ require (
 	github.com/prometheus/tsdb v0.7.1 // indirect
 	github.com/sirupsen/logrus v1.8.1
 	github.com/spf13/cobra v1.2.1
-	github.com/spf13/viper v1.10.0
+	github.com/spf13/viper v1.10.1
 	github.com/tmc/grpc-websocket-proxy v0.0.0-20190109142713-0ad062ec5ee5 // indirect
 	golang.org/x/net v0.0.0-20211216030914-fe4d6282115f
 )
