@@ -1,3 +1,11 @@
+## [1.1.8](https://github.com/NoUseFreak/huaweifusionsolar-exporter/compare/v1.1.7...v1.1.8) (2021-12-29)
+
+
+### Bug Fixes
+
+* **deps:** update golang.org/x/net commit hash to fe4d628 ([db3f52c](https://github.com/NoUseFreak/huaweifusionsolar-exporter/commit/db3f52c3326802bdd69aedb35387ebee6c29af23))
+* **deps:** update module github.com/spf13/viper to v1.10.1 ([bc8c33a](https://github.com/NoUseFreak/huaweifusionsolar-exporter/commit/bc8c33a9411a54b04ca05988fc8c33ceb8c28713))
+
 ## [1.1.7](https://github.com/NoUseFreak/huaweifusionsolar-exporter/compare/v1.1.6...v1.1.7) (2021-12-12)
 
 
