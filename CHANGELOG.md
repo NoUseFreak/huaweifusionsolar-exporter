@@ -1,3 +1,10 @@
+## [1.1.14](https://github.com/NoUseFreak/huaweifusionsolar-exporter/compare/v1.1.13...v1.1.14) (2022-02-08)
+
+
+### Bug Fixes
+
+* **deps:** update module github.com/prometheus/client_golang to v1.12.1 ([80073ce](https://github.com/NoUseFreak/huaweifusionsolar-exporter/commit/80073ce59e7615c79264dd8c242156564acbd5ba))
+
 ## [1.1.13](https://github.com/NoUseFreak/huaweifusionsolar-exporter/compare/v1.1.12...v1.1.13) (2022-02-01)
 
 
