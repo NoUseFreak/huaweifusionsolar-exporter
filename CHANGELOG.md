@@ -1,3 +1,10 @@
+## [1.1.16](https://github.com/NoUseFreak/huaweifusionsolar-exporter/compare/v1.1.15...v1.1.16) (2022-03-26)
+
+
+### Bug Fixes
+
+* **deps:** update module github.com/spf13/cobra to v1.4.0 ([0dfacd5](https://github.com/NoUseFreak/huaweifusionsolar-exporter/commit/0dfacd5ac5f0ad96f28988e7162661e54a3e523e))
+
 ## [1.1.15](https://github.com/NoUseFreak/huaweifusionsolar-exporter/compare/v1.1.14...v1.1.15) (2022-03-08)
 
 
