@@ -1,3 +1,11 @@
+## [1.1.17](https://github.com/NoUseFreak/huaweifusionsolar-exporter/compare/v1.1.16...v1.1.17) (2022-05-17)
+
+
+### Bug Fixes
+
+* **deps:** update module github.com/prometheus/client_golang to v1.12.2 ([d57725e](https://github.com/NoUseFreak/huaweifusionsolar-exporter/commit/d57725eefbdadc4245e8d76924a3aa28860bba64))
+* **deps:** update module github.com/spf13/viper to v1.11.0 ([9ca45d3](https://github.com/NoUseFreak/huaweifusionsolar-exporter/commit/9ca45d373930c56e844e1791e71b0df233f0bd44))
+
 ## [1.1.16](https://github.com/NoUseFreak/huaweifusionsolar-exporter/compare/v1.1.15...v1.1.16) (2022-03-26)
 
 
