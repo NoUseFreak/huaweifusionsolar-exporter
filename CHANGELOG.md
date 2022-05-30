@@ -1,3 +1,10 @@
+## [1.1.21](https://github.com/NoUseFreak/huaweifusionsolar-exporter/compare/v1.1.20...v1.1.21) (2022-05-30)
+
+
+### Bug Fixes
+
+* **deps:** update golang.org/x/net digest to 5463443 ([9236f99](https://github.com/NoUseFreak/huaweifusionsolar-exporter/commit/9236f996252b6f292799c6e462c398382b1a9213))
+
 ## [1.1.20](https://github.com/NoUseFreak/huaweifusionsolar-exporter/compare/v1.1.19...v1.1.20) (2022-05-30)
 
 
