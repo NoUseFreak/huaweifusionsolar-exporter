@@ -1,3 +1,10 @@
+## [1.1.29](https://github.com/NoUseFreak/huaweifusionsolar-exporter/compare/v1.1.28...v1.1.29) (2022-07-20)
+
+
+### Bug Fixes
+
+* **deps:** update module github.com/sirupsen/logrus to v1.9.0 ([7ac6dbc](https://github.com/NoUseFreak/huaweifusionsolar-exporter/commit/7ac6dbc69d3ed3eb8adeb8acac05288a5d781ab2))
+
 ## [1.1.28](https://github.com/NoUseFreak/huaweifusionsolar-exporter/compare/v1.1.27...v1.1.28) (2022-07-09)
 
 
