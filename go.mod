@@ -15,5 +15,5 @@ require (
 	github.com/spf13/cobra v1.5.0
 	github.com/spf13/viper v1.12.0
 	github.com/tmc/grpc-websocket-proxy v0.0.0-20190109142713-0ad062ec5ee5 // indirect
-	golang.org/x/net v0.0.0-20220708220712-1185a9018129
+	golang.org/x/net v0.0.0-20220722155237-a158d28d115b
 )
