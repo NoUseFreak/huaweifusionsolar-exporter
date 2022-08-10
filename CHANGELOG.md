@@ -1,3 +1,11 @@
+## [1.1.33](https://github.com/NoUseFreak/huaweifusionsolar-exporter/compare/v1.1.32...v1.1.33) (2022-08-10)
+
+
+### Bug Fixes
+
+* **deps:** update golang.org/x/net digest to 07c6da5 ([a764ef9](https://github.com/NoUseFreak/huaweifusionsolar-exporter/commit/a764ef93b2101aa3e1b8b2b09dbab20a04bd9174))
+* **deps:** update module github.com/prometheus/client_golang to v1.13.0 ([83162b7](https://github.com/NoUseFreak/huaweifusionsolar-exporter/commit/83162b738ddcfb50016f2306deb0ccaf2c77664e))
+
 ## [1.1.32](https://github.com/NoUseFreak/huaweifusionsolar-exporter/compare/v1.1.31...v1.1.32) (2022-07-31)
 
 
