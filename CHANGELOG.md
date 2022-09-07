@@ -1,3 +1,11 @@
+## [1.1.35](https://github.com/NoUseFreak/huaweifusionsolar-exporter/compare/v1.1.34...v1.1.35) (2022-09-07)
+
+
+### Bug Fixes
+
+* **deps:** update golang.org/x/net digest to f3363e0 ([3d1a393](https://github.com/NoUseFreak/huaweifusionsolar-exporter/commit/3d1a393f0bdb55c51364f181ea01441ab94cfa16))
+* **deps:** update module github.com/spf13/viper to v1.13.0 ([544fd51](https://github.com/NoUseFreak/huaweifusionsolar-exporter/commit/544fd51f8aefefe48c94195262431a796e27aa8b))
+
 ## [1.1.34](https://github.com/NoUseFreak/huaweifusionsolar-exporter/compare/v1.1.33...v1.1.34) (2022-08-15)
 
 
