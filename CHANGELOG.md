@@ -1,3 +1,11 @@
+## [1.1.38](https://github.com/NoUseFreak/huaweifusionsolar-exporter/compare/v1.1.37...v1.1.38) (2022-10-15)
+
+
+### Bug Fixes
+
+* **deps:** update golang.org/x/net digest to f15817d ([83075da](https://github.com/NoUseFreak/huaweifusionsolar-exporter/commit/83075daf55d560ab2ca797cacea8130567e1d298))
+* **deps:** update module github.com/spf13/cobra to v1.6.0 ([a02549a](https://github.com/NoUseFreak/huaweifusionsolar-exporter/commit/a02549abc4d434d008369f6137ea1741d3f82e95))
+
 ## [1.1.37](https://github.com/NoUseFreak/huaweifusionsolar-exporter/compare/v1.1.36...v1.1.37) (2022-09-29)
 
 
